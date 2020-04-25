@@ -1,7 +1,7 @@
-### The project was created on: 2020-04-25
+### Date of project-creation: 2020-04-25
 
 
-### udacity-bikeshare-project
+## Project Name: Bikeshare Project
 
 
 ### Project Description
@@ -18,6 +18,7 @@ The data is provided by the US bike share system provider Motivate. The data fil
 * Start Station (e.g., Broadway & Barry Ave)
 * End Station (e.g., Sedgwick St & North Ave)
 * User Type (Subscriber or Customer)
+
 Two of the datasets (Chicago and New York City) also have the columns:
 * Gender
 * Birth Year
@@ -27,6 +28,7 @@ Data files:
 * chicago.csv
 * new_york_city.csv
 * washington.csv
+
 Python-Script:
 * bikeshare.py
 
