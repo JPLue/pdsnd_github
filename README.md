@@ -19,7 +19,8 @@ The data is provided by the US bike share system provider Motivate. The data fil
     - End Station (e.g., Sedgwick St & North Ave)
     - User Type (Subscriber or Customer)
 Two of the datasets (Chicago and New York City) also have the columns:
-
+    - Gender
+    - Birth Year
 
 ### Files used
 Data files:
