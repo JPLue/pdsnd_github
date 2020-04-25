@@ -23,7 +23,8 @@ MONTH_DATA = {'january': '1',
 DAY_DATA = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', ' saturday', 'sunday', 'all']
 
 
-# get user input for filtering the data. The function askes after city, month and day for the data selection
+# get user input for filtering the data. The function askes after city, month and day for
+# the data selection and hands back the city, month and day for the creation of the data frame
 
 def get_filters():
     city = ''
@@ -258,5 +259,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
