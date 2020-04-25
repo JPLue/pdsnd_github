@@ -31,3 +31,9 @@ Python-Script:
     - bikeshare.py
 
 ### Credits
+For the project I used the following sites for help:
+    - https://docs.python.org/3/tutorial/inputoutput.html
+    - https://www.w3schools.com/python
+    - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.day_name.html?
+    - https://stackoverflow.com
+    - https://www.geeksforgeeks.org/python-program-to-convert-seconds-into-hours-minutes-and-seconds/
