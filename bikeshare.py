@@ -76,7 +76,7 @@ def get_filters():
     # print user input summary
     print('\n You have chosen to view data for: \n City: {} \n Month: {} \n Day: {}'.format(city.title(), month.title(),
                                                                                             day.title()))
-    print('-' * 40)
+    print('-' * 80)
     return city, month, day
 
 
@@ -235,8 +235,8 @@ def show_raw_data(df):
 
     start_line = 0
     while answer == 'yes':
-        print(df.iloc[start_line:start_line + 5])
-        start_line += 5
+        print(df.iloc[start_line:start_line + 10])
+        start_line += 10
         answer = input('\n Would you like to see the following 10 lines of raw data also?\n'
                        'Enter yes or no: ').lower()
     print('-' * 40)
