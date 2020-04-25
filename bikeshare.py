@@ -76,7 +76,7 @@ def get_filters():
     # print user input summary
     print('\n You have chosen to view data for: \n City: {} \n Month: {} \n Day: {}'.format(city.title(), month.title(),
                                                                                             day.title()))
-    print('-' * 40)
+    print('-' * 80)
     return city, month, day
 
 
